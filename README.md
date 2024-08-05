@@ -1,2 +1,2 @@
-# CDAE-spdownsampler
-CDAE-spdownsampler
+# CSPDAE
+CSPDAE
